@@ -15,6 +15,7 @@ Open the printed localhost URL to use the terminal. Use `npm run build` for a pr
 
 - `help` — shows basic info and lists available commands
 - `about` — shows the developer profile
+- `horse` — shows a celebratory 2026 pixel-art horse animation
 
 ### Adding commands
 
